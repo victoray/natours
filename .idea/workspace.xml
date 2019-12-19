@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c08e45e0-0870-45fa-8b1e-662a0e18ecd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/hero-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/logo-green-1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/logo-green-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/logo-green-small-1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/logo-green-small-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-1-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-2-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-3-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/nat-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/img/video.webm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +65,8 @@
       <updated>1576670229182</updated>
       <workItem from="1576670230292" duration="1469000" />
       <workItem from="1576672152721" duration="35000" />
-      <workItem from="1576672230306" duration="4853000" />
+      <workItem from="1576672230306" duration="5104000" />
+      <workItem from="1576737996975" duration="1130000" />
     </task>
     <servers />
   </component>
