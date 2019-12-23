@@ -1,19 +1,5 @@
 import React from "react";
 
-interface TourCardDetails {
-    details: string[];
-}
-
-const TourCardDetails = ({details}: TourCardDetails) => {
-    return (
-        <div className="card__details">
-            <ul>
-                {details.map(detail => <li key={detail}>{detail}</li>)}
-            </ul>
-        </div>
-    )
-};
-
 interface ToursCard {
     heading: string;
     details: string[];
@@ -32,7 +18,11 @@ const ToursCard = ({heading, details, price, id}: ToursCard) => {
                               </span>
                 </h4>
 
-                <TourCardDetails details={details}/>
+                <div className="card__details">
+                    <ul>
+                        {details.map(detail => <li key={detail}>{detail}</li>)}
+                    </ul>
+                </div>
             </div>
             <div className={"card__side card__side--back card__side--back-" + id}>
                 <div className="card__cta">
