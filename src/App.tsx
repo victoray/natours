@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import About from "./components/About";
 import Features from "./components/Features";
 import Tours from "./components/Tours";
+import Stories from "./components/Stories";
 
 const App: React.FC = () => {
     return (
@@ -12,9 +13,10 @@ const App: React.FC = () => {
                 <Header/>
                 <main>
                     <About/>
+                    <Features/>
+                    <Tours/>
+                    <Stories/>
                 </main>
-                <Features/>
-                <Tours/>
             </div>
         </>
     );

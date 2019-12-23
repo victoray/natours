@@ -2,7 +2,6 @@
 @import "./statics/abstract/mixins";
 @import "./statics/abstract/variables";
 
-
 @import "./statics/base/animation";
 @import "./statics/base/base";
 @import "./statics/base/typography";
@@ -12,6 +11,8 @@
 @import "./statics/components/composition";
 @import "statics/components/feature-box";
 @import "statics/components/card";
+@import "statics/components/story";
+@import "statics/components/bg-video";
 
 @import "./statics/layout/header";
 @import "./statics/layout/grid";
