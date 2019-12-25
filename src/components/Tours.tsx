@@ -1,4 +1,5 @@
 import React from "react";
+import Popup from "./Popup";
 
 interface ToursCard {
     heading: string;
@@ -29,7 +30,7 @@ const ToursCard = ({heading, details, price, id}: ToursCard) => {
                     <div className="card__price-box">
                         <p className="card__price-only">Only</p>
                         <p className="card__price-value">${price}</p>
-                        <a className={"btn btn--white"}>Book now!</a>
+                        <a href={"#popup"} className={"btn btn--white"}>Book now!</a>
                     </div>
                 </div>
             </div>
@@ -39,7 +40,7 @@ const ToursCard = ({heading, details, price, id}: ToursCard) => {
 
 const Tours = () => {
     return (
-        <section className="section-tours">
+        <section className="section-tours" id="section-tours">
             <div className="u-center-text">
                 <h2 className="heading-secondary u-margin-bottom-big">
                     Most Popular tours

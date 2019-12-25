@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c08e45e0-0870-45fa-8b1e-662a0e18ecd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/layout/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Popup.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/layout/_popup.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Booking.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Booking.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Tours.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tours.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
@@ -82,7 +85,7 @@
       <workItem from="1576737996975" duration="8727000" />
       <workItem from="1576820953935" duration="5478000" />
       <workItem from="1576938782424" duration="15466000" />
-      <workItem from="1577112225996" duration="17689000" />
+      <workItem from="1577112225996" duration="22675000" />
     </task>
     <servers />
   </component>
@@ -93,6 +96,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577306963194">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577306963194" />
     <state x="602" y="200" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576813599295">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

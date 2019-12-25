@@ -1,7 +1,7 @@
 import React from "react";
 import logoWhite from "../statics/img/logo-white.png"
 
-const Header = ()=> {
+const Header = () => {
     return (
         <>
             <header className={"header"}>
@@ -13,7 +13,7 @@ const Header = ()=> {
                         <span className={"heading-primary--main"}>Outdoors</span>
                         <span className={"heading-primary--sub"}> is where life happens</span>
                     </h1>
-                    <a href={"#"} className={"btn btn--white btn--animated"}>Discover Our Tours</a>
+                    <a href={"#section-tours"} className={"btn btn--white btn--animated"}>Discover Our Tours</a>
                 </div>
             </header>
         </>

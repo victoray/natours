@@ -8,6 +8,7 @@ import Stories from "./components/Stories";
 import Booking from "./components/Booking";
 import Footer from "./components/Footer";
 import Navigation from "./components/Navigation";
+import Popup from "./components/Popup";
 
 const App: React.FC = () => {
     return (
@@ -23,6 +24,7 @@ const App: React.FC = () => {
                     <Booking/>
                 </main>
                 <Footer/>
+                <Popup/>
             </div>
         </>
     );
