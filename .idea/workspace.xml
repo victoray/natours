@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c08e45e0-0870-45fa-8b1e-662a0e18ecd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/components/_bg-video.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/components/_story.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Booking.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statics/components/_form.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statics/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/components/_button.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/statics/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/statics/pages/_home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,7 @@
       <workItem from="1576737996975" duration="8727000" />
       <workItem from="1576820953935" duration="5478000" />
       <workItem from="1576938782424" duration="15466000" />
-      <workItem from="1577112225996" duration="4884000" />
+      <workItem from="1577112225996" duration="10169000" />
     </task>
     <servers />
   </component>
