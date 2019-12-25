@@ -7,11 +7,13 @@ import Tours from "./components/Tours";
 import Stories from "./components/Stories";
 import Booking from "./components/Booking";
 import Footer from "./components/Footer";
+import Navigation from "./components/Navigation";
 
 const App: React.FC = () => {
     return (
         <>
             <div>
+                <Navigation/>
                 <Header/>
                 <main>
                     <About/>
