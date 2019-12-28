@@ -7,12 +7,9 @@ const Popup = () => {
         <div className="popup" id="popup">
             <div className="popup__content">
                 <div className={"popup__left"}>
-                    <div className="popup__image-box">
-                        <img className={"popup__image"} src={nat8} alt={""}/>
-                    </div>
-                    <div className="popup__image-box">
-                        <img className={"popup__image"} src={nat9} alt={""}/>
-                    </div>
+                    <img className={"popup__image"} src={nat8} alt={""}/>
+
+                    <img className={"popup__image"} src={nat9} alt={""}/>
                 </div>
                 <div className={"popup__right"}>
                     <a href="#section-tours" className="popup__close">&times;</a>

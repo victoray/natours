@@ -10,6 +10,7 @@
   opacity: 0;
   visibility: hidden;
 
+
   &:target {
     opacity: 1;
     visibility: visible;
@@ -47,10 +48,10 @@
     padding: 3rem 5rem;
   }
 
+
   &__image {
     display: block;
     width: 100%;
-    margin-bottom: -1rem;
   }
 
   &__text {
@@ -61,6 +62,10 @@
     column-gap: 4rem;
     column-rule: 1px solid #eee;
     hyphens: auto;
+
+    @include respond(phone) {
+      column-count: unset;
+    }
   }
 
   &__close {
@@ -81,4 +86,12 @@
       color: $color-primary;
     }
   }
+
+  @include respond(tab-land) {
+    &__left {
+      display: none;
+    }
+  }
+
+
 }
