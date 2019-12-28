@@ -150,7 +150,7 @@
     font-weight: 100;
   }
 
-  @include respond(tab-port) {
+  @media  only screen and (max-width: 56.25em), only screen and (hover: none) {
     height: auto;
     background-color: white;
     box-shadow: 0 1.5rem 4.5rem rgba(black, 0.15);
@@ -188,6 +188,7 @@
       transform: translate(0);
       width: 100%;
       padding: 7rem 4rem 4rem 4rem;
+      text-align: center;
 
     }
 
@@ -199,6 +200,7 @@
 
     &__price-value {
       font-size: 6rem;
+      margin-bottom: 8rem;
     }
 
     &__details {

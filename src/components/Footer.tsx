@@ -1,11 +1,18 @@
 import React from "react";
-import logo from "../statics/img/logo-green-2x.png";
+import logo2x from "../statics/img/logo-green-2x.png";
+import logo1x from "../statics/img/logo-green-1x.png";
+import logoSmall1x from "../statics/img/logo-green-small-1x.png"
+import logoSmall2x from "../statics/img/logo-green-small-2x.png"
 
 const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer__logo-box">
-                <img src={logo} alt="" className="footer__logo"/>
+                <picture className="footer__logo">
+                    <source srcSet={`${logoSmall2x} 2x, ${logoSmall1x} 1x`} media={"(max-width: 37.5em)"}/>
+                    <img srcSet={`${logo2x} 2x, ${logo1x} 1x`} alt=""/>
+                </picture>
+
             </div>
 
             <div className="row u-margin-top-big">

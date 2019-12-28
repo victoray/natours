@@ -52,6 +52,12 @@
       box-shadow: 0 1.5rem 4rem rgba($color-black, 0.5);
       z-index: 10;
 
+      @include respond(tab-port) {
+        outline: none;
+        transform: scale(1.4) translateY(0);
+        z-index: 1000;
+      }
+
     }
   }
 
